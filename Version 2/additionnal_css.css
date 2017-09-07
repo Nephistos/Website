@@ -1,0 +1,34 @@
+/*
+Vous pouvez ajouter du CSS personnalisé ici.
+
+Cliquez sur l’icône d’aide ci-dessus pour en savoir plus.
+*/
+
+.baw{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+}
+
+.rond{
+	width:200px;
+	height:200px;
+	background:#069;
+	-webkit-border-radius:100px;
+	-moz-border-radius:100px;
+	-o-border-radius:100px;
+	border-radius:100px;
+}
+
+#global {
+ display:flex;
+
+}
+#gauche {
+margin-left:auto;
+}
+#droite {
+  margin-right:auto;
+}
