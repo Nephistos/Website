@@ -32,3 +32,5 @@ margin-left:auto;
 #droite {
   margin-right:auto;
 }
+
+.entry-title { display: none; } 
