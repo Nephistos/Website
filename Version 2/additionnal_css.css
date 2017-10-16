@@ -20,6 +20,7 @@ Cliquez sur l’icône d’aide ci-dessus pour en savoir plus.
 	-moz-border-radius:100px;
 	-o-border-radius:100px;
 	border-radius:100px;
+	box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.3); 
 }
 
 #global {
