@@ -5,7 +5,7 @@ Les différentes versions de mon site web personnel.
 Mon site web personnel est destiné à être visité par des recruteurs. J'ai créer ce site à dessein de compléter les informations de mon profil LinkedIn et d'améliorer ma visibilitée en ligne.
 
 # Fonctionnalitées
-- Facilitées le contact via un formulaire
+- Faciliter le contact via un formulaire
 - Centraliser mes réseaux sociaux professionnels
 - Mettre en valeur mes projets & réalisations 
 
