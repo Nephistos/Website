@@ -13,6 +13,7 @@ Mon site web personnel est destiné à être visité par des recruteurs. J'ai cr
 - HTML5 & CSS3
 - PHP
 - Wordpress
+- Bootstrap
 
 # Liens
 - Version 1 : http://www.lecoffre-emilien.890m.com/
